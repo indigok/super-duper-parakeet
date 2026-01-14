@@ -1,5 +1,5 @@
 # super-duper-parakeet
 
-A super duper parakeeeeet
+A super duper parakeet
 
 🦜
